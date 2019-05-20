@@ -1,2 +1,2 @@
-# Matrix
-Gauss method
+# MatrixProject
+Gauss Method and others
